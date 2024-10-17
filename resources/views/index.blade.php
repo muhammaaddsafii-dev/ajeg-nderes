@@ -127,7 +127,7 @@
                 </a>
             </div>
             <div class="col-lg-6 mb-4">
-                <a style="color:inherit; text-decoration:inherit;" href="">
+                <a style="color:inherit; text-decoration:inherit;" href="/pilih">
                     <div class="card-custom">
                         <div class="d-flex align-items-center">
                             <div class="icon me-3">
